@@ -4,7 +4,7 @@ import Input from "./Input";
 const NewProject = () => {
   return (
     <div className="w-[35rem] mt-16">
-      <menu className="flex items-center justify-endgap-4 my-4">
+      <menu className="flex items-center justify-end gap-4 my-4">
         <li>
           <button className="text-stone-800 hover:text-stone-950">Cancel</button>
         </li>
