@@ -1,7 +1,7 @@
 import noProject from "../assets/no-projects.png";
 import Button from "./Button";
 
-const NoProjectSelected = ({onStartAddProject}) => {
+const NoProjectSelected = ({ onStartAddProject }) => {
   return (
     <div className="mt-24 text-center w-2/3">
       <img
